@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Literatural Fruit]]></title>
         <description><![CDATA[Literatural Fruit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/literatural-fruit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 13:53:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 14:01:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/literatural-fruit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>廣告宣傳手冊及文宣 </p>]]></description>
-            <link>undefinedportfolio/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34fc3e86-c695-40f0-97ed-f00c0b657e53.jpg">]]></description>
+            <link>https://thegrid.ai/literatural-fruit/portfolio/index.html</link>
             <guid isPermaLink="false">3476ec0c-397d-498d-9b9f-3b8b3416ee07</guid>
-            <pubDate>Wed, 20 Apr 2016 13:53:29 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 14:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
