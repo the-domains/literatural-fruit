@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Portfolio
-datePublished: '2016-04-20T13:53:29.558Z'
-dateModified: '2016-04-20T13:53:28.880Z'
+datePublished: '2016-04-20T14:01:19.430Z'
+dateModified: '2016-04-20T13:59:04.040Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,5 @@ url: portfolio/index.html
 _type: Article
 
 ---
-廣告宣傳手冊及文宣 
-
 Portfolio
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34fc3e86-c695-40f0-97ed-f00c0b657e53.jpg)
